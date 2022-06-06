@@ -52,7 +52,6 @@ namespace Exercicio_Complementar_Calcular_IMC
             this.txtAltura.Name = "txtAltura";
             this.txtAltura.Size = new System.Drawing.Size(156, 23);
             this.txtAltura.TabIndex = 1;
-           
             // 
             // label2
             // 
@@ -102,6 +101,7 @@ namespace Exercicio_Complementar_Calcular_IMC
             this.Controls.Add(this.txtAltura);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calcular IMC";
             this.ResumeLayout(false);
             this.PerformLayout();
