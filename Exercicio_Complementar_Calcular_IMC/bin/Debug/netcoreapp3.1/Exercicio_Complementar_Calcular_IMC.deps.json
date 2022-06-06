@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio_Complementar_Calcular_IMC/1.0.0": {
+        "runtime": {
+          "Exercicio_Complementar_Calcular_IMC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Complementar_Calcular_IMC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
